@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kadirlaskar012.github.io/patla-pdf/sitemap.xml
+Sitemap: https://kadirlaskar012.github.io/patla-pdf/sitemap.txt
