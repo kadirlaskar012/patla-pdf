@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kadirlaskar012.github.io/patla-pdf/sitemap.xml
